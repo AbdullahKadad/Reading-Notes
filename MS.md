@@ -28,4 +28,4 @@ Similarly, in web development with Python or any other field, having a growth mi
 
 ---
 
-[Back](CLI.md) / [Next Page](Q.md)
+[Back](CLI.md) / [Next Page](Cryptography.md)

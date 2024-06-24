@@ -10,6 +10,7 @@
 1. [Relational Databases](DB.md)
 1. [Command Line Interface](CLI.md)
 1. [Importance of Growth Mindset](MS.md)
+1. [Cryptography](Cryptography.md)
 1. [Questions](Q.md)
 
 ---
